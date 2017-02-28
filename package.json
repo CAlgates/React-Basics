@@ -1,0 +1,23 @@
+{
+  "name": "basic",
+  "version": "1.0.0",
+  "description": "learning",
+  "main": "main.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "author": "cal",
+  "license": "ISC",
+  "dependencies": {
+    "install": "^0.8.4",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-redux": "^5.0.2",
+    "redux": "^3.6.0",
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
+  },
+  "devDependencies": {
+    "redux-devtools": "^3.3.2"
+  }
+}
